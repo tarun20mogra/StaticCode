@@ -6,7 +6,4 @@ Prints:<br/>
 2. Number of interfaces<br/>
 3. Number of variables<br/>
 
-Errores and warning  included are: <br/> 
-1. Method of interfaces are implemented in child classes or not. <br/>
-2. Naming conventions for variables. <br/>
-3. If variables are declared and never used. <br/>
+Errores and warning  included are:<br/> 1. Method of interfaces are implemented in child classes or not. <br/>2. Naming conventions for variables. <br/>3. If variables are declared and never used. <br/>
